@@ -1,2 +1,2 @@
 # Start_Git
-To learn something new
+This is the first repo created in order to learn programming. The main goal is to discover new things and work related to programming.
